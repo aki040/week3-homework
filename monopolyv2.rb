@@ -35,4 +35,3 @@ puts more_properties.find{|h| h[:name]=='New York Ave'}[:price]
 puts special_squares[:good].count
 
 
-
